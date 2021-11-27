@@ -13,7 +13,7 @@ social:
     icon_pack: fas
     link: jubril.adigun@uibk.ac.at
     display:
-      header: true
+      header: false
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/ask4jubad
@@ -24,7 +24,7 @@ social:
     icon_pack: fab
     link: https://github.com/ask4jubad
     display:
-      header: true
+      header: false
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/ask4jubad
@@ -33,15 +33,15 @@ organizations:
     url: https://www.uibk.ac.at/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Computer Science
+      institution: University of Innsbruck
+      year: 2023
+    - course: MSE in Software Engineering
+      institution: University of Tartu and Tallinn University of Technology
+      year: 2020
+    - course: BEng in Electrical and Electronics Engineering
+      institution: University of Ilorin
+      year: 2010
 email: ask4jubad@yahoo.com
 superuser: true
 highlight_name: true
