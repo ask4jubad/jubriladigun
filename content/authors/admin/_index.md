@@ -55,4 +55,4 @@ I am a big participator in sustainability and an advocate for the realization of
 
 <!--EndFragment-->
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "assets/media/jubril*gbolahan_adigun*-acad_neue.pdf" "newtab" >}}resumé{{< /staticref >}}.
