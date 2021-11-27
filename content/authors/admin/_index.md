@@ -26,8 +26,8 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/ask4jubad
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Innsbruck
+    url: https://www.uibk.ac.at/
 education:
   courses:
     - course: PhD in Artificial Intelligence
@@ -39,7 +39,7 @@ education:
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2008
-email: ""
+email: ask4jubad@yahoo.com
 superuser: true
 highlight_name: true
 ---
