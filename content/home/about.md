@@ -3,7 +3,10 @@ widget: about
 widget_id: changes
 headless: true
 weight: 10
-title: Biography
-active: false
+title: Profile
+active: true
 author: admin
+design:
+  background:
+    image: sketch_jubril.png
 ---
