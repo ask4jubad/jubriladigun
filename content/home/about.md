@@ -9,7 +9,7 @@ author: admin
 design:
   background:
     image: ""
-    gradient_start: "#1c7352"
-    gradient_end: "#1c8d22"
+    gradient_start: "#ffffff"
+    gradient_end: "#ffffff"
     text_color_light: false
 ---
