@@ -33,11 +33,11 @@ organizations:
   - name: University of Innsbruck
     url: https://www.uibk.ac.at/
   - name: Ainnov8 Technologies
-    url: www.ainnov8.com
+    url: https://www.ainnov8.com
   - name: Community Action Against Plastic Waste
-    url: www.capws.org
+    url: https://www.capws.org
   - name: Ecoxfood
-    url: www.ecoxfood.com
+    url: https://www.ecoxfood.com
 education:
   courses:
     - course: PhD in Computer Science
