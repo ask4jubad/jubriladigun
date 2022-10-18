@@ -1,7 +1,7 @@
 ---
 title: Jubril Gbolahan Adigun
 role: PhD Candidate in Computer Science
-avatar_filename: jubril.png
+avatar_filename: avatar.png
 bio: My research interests include AI systems, robotics, knowledge graphs,
   software and system testing, IT automation and networks
 interests:
