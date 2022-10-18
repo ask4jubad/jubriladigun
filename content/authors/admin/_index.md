@@ -10,7 +10,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: jubril.adigun@uibk.ac.at
+    link: "#contact"
     display:
       header: false
   - icon: twitter
