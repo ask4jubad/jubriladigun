@@ -18,8 +18,10 @@ social:
     icon_pack: fab
     link: https://twitter.com/ask4jubad
   - icon: graduation-cap
-    icon_pack: ai
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=OEj4UnkAAAAJ&hl=en
+    display:
+      header: false
   - icon: github
     icon_pack: fab
     link: https://github.com/ask4jubad
@@ -31,6 +33,12 @@ social:
 organizations:
   - name: University of Innsbruck
     url: https://www.uibk.ac.at/
+  - name: Ainnov8 Technologies
+    url: www.ainnov8.com
+  - name: Community Action Against Plastic Waste
+    url: www.capws.org
+  - name: Ecoxfood
+    url: www.ecoxfood.com
 education:
   courses:
     - course: PhD in Computer Science
