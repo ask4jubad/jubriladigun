@@ -50,7 +50,7 @@ education:
     - course: BEng in Electrical and Electronics Engineering
       institution: University of Ilorin
       year: 2010
-email: ask4jubad@yahoo.com
+email: ""
 superuser: true
 highlight_name: true
 ---
