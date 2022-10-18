@@ -7,7 +7,7 @@ draft: false
 featured: false
 authors:
   - admin
-lastmod: 2020-12-13T00:00:00Z
+lastmod: 2020-12-13T00:00:00.000Z
 tags: []
 categories: []
 projects: []
@@ -17,6 +17,7 @@ image:
   placement: 2
   preview_only: false
 ---
-## W﻿elcome to my website.\
+## W﻿elcome to my website.
+
 \
 I﻿ look forward to connecting with you on engineering, computer science, sustainability, personal development and startups.
