@@ -1,49 +1,70 @@
 ---
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus
-  urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci,
-  mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in
-  dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum
-  arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla
-  eleifend gravida.
-slides: example
+abstract: Metamorphic testing has proven to be effective for test case
+  generation and fault detection in many domains. It is a software testing
+  strategy that uses certain relations between input-output pairs of a program,
+  referred to as metamorphic relations. This approach is relevant in the
+  autonomous systems domain since it helps in cases where the outcome of a given
+  test input may be difficult to determine. In this paper therefore, we provide
+  an overview of metamorphic testing as well as an implementation in the
+  autonomous systems domain. We implement an obstacle detection and avoidance
+  task in  autonomous drones utilising the GNC API alongside a simulation in
+  Gazebo. Particularly, we describe properties and best practices that are
+  crucial for the development of effective metamorphic relations. We also
+  demonstrate two metamorphic relations for metamorphic testing of single and
+  more than one drones, respectively. Our relations reveal several properties
+  and some weak spots of both the implementation and the avoidance algorithm in
+  the light of metamorphic testing. The results indicate that metamorphic
+  testing has great potential in the autonomous systems domain and should be
+  considered for quality assurance in this field.
+slides: ""
 url_pdf: ""
 publication_types:
   - "1"
 authors:
   - admin
-  - Robert Ford
+  - Linus Eisele
+  - Michael Felderer
 author_notes:
   - Equal contribution
   - Equal contribution
-publication: In *Wowchemy Conference*
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
-  tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin
-  condimentum.
+  - Review and Editing
+publication: In *48th Euromicro Conference on Software Engineering and Advanced
+  Applications*
+summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *ICW*
+publication_short: In *SEAA 2022*
 url_source: ""
 url_video: ""
-title: An example conference paper
+title: Metamorphic Testing in Autonomous System Simulations
 doi: ""
-featured: true
-tags: []
-projects:
-  - example
+featured: false
+tags:
+  - metamorphic testing
+  - simulation
+  - cyber-physical system
+  - test case generation
+  - autonomous system
+categories:
+  - metamorphic testing
+  - simulation
+  - cyber-physical system
+  - test case generation
+  - autonomous system
+projects: []
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: "Image credit: [**Original**]"
   focal_point: ""
   preview_only: false
+  filename: featured.jpg
 date: 2021-11-27T13:19:19.714Z
 url_slides: ""
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
 
-{{% callout note %}}
+[{{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -52,3 +73,4 @@ Create your slides in Markdown - click the *Slides* button to check out the exam
 {{% /callout %}}
 
 Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+]﻿: <>
