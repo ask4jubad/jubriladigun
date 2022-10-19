@@ -21,7 +21,7 @@ twitter: 'ask4jubad'
 # Contact (edit or remove options as required)
 
 email: jubril.adigun[at]uibk.at
-workphone: +4351250753456
+phone: +4351250753456
 address:
   street: Technikerstrasse 21a
   city: Innsbruck
@@ -42,7 +42,7 @@ contact_links:
     icon_pack: fab
     name: Reach out on twitter
     link: 'https://twitter.com/ask4jubad'
-  - icon: circle-user
+  - icon: angle-double-right
     icon_pack: fas
     name: More options to connect with me
     link: 'https://linktr.ee/ask4jubad'
