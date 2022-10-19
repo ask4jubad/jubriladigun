@@ -5,8 +5,11 @@ avatar_filename: avatar.png
 bio: IT Generalist and Quality Engineering Researcher
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Simulations
+  - Quality Assurance
+  - Cyber-physical Systems
+  - Knowledge Graphs
+  - Startups
 social:
   - icon: envelope
     icon_pack: fas
