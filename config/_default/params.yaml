@@ -40,20 +40,24 @@ appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: DM Me
+    name: Connect with me
     link: 'https://twitter.com/ask4jubad'
-  - icon: skype
+  - icon: message-text
     icon_pack: fab
-    name: Skype Me
-    link: 'skype:ask4jubad'
-  - icon: keybase
-    icon_pack: fab
-    name: Chat on Keybase
-    link: 'https://keybase.io/'
-  - icon: comments
-    icon_pack: fas
-    name: Discuss on Forum
-    link: 'https://discourse.gohugo.io'
+    name: More options to connect with me
+    link: 'https://linktr.ee/ask4jubad'
+#   - icon: skype
+#     icon_pack: fab
+#     name: Skype Me
+#     link: 'skype:ask4jubad'
+#   - icon: linktr
+#     icon_pack: fab
+#     name: Chat on Keybase
+#     link: 'https://keybase.io/'
+#   - icon: comments
+#     icon_pack: fas
+#     name: Discuss on Forum
+#     link: 'https://discourse.gohugo.io'
 
 # Site header
 
@@ -105,7 +109,7 @@ copyright_license:
   share_alike: true
   allow_commercial: false
   notice: 'This work is licensed under {license}'
-abstract_length: 135
+abstract_length: 250
 plugins_js: []
 avatar:
   gravatar: false
