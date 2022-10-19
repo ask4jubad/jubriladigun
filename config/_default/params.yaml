@@ -20,8 +20,8 @@ twitter: 'ask4jubad'
 
 # Contact (edit or remove options as required)
 
-email: jubril.adigun[at]uibk.at
-phone: +4351250753456
+email: jubril.adigun[at]uibk.ac.at
+phone: '+4351250753456'
 address:
   street: Technikerstrasse 21a
   city: Innsbruck
@@ -106,7 +106,7 @@ sharing: true
 copyright_license:
   enable: true
   allow_derivatives: false
-  share_alike: true
+  share_alike: false
   allow_commercial: false
   notice: '&copy 2022 Ask4jubad'
 abstract_length: 250
