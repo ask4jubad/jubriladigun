@@ -40,10 +40,10 @@ appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
     icon_pack: fab
-    name: Connect with me
+    name: Reach out on twitter
     link: 'https://twitter.com/ask4jubad'
   - icon: message-text
-    icon_pack: fab
+    icon_pack: fas
     name: More options to connect with me
     link: 'https://linktr.ee/ask4jubad'
 #   - icon: skype
