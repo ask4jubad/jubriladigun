@@ -42,7 +42,7 @@ contact_links:
     icon_pack: fab
     name: Reach out on twitter
     link: 'https://twitter.com/ask4jubad'
-  - icon: message-text
+  - icon: circle-user
     icon_pack: fas
     name: More options to connect with me
     link: 'https://linktr.ee/ask4jubad'
