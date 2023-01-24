@@ -7,15 +7,15 @@ title: Skills
 subtitle: null
 feature:
   - description: 
-    icon: shield
-    icon_pack: fas
+    icon: bug
+    icon_pack: fab
     name: Quality Assurance
   - description: 
-    icon: binary
-    icon_pack: fas
+    icon: code
+    icon_pack: fab
     name: Programming
   - description:
-    icon: microchip
+    icon: microchip-ai
     icon_pack: fa-solid
     name: Artificial Intelligence
   - description:
