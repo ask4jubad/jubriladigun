@@ -33,7 +33,7 @@ feature:
     name: Quality Assurance
   - description: 
     icon: python
-    icon_pack: fas
+    icon_pack: fab
     name: Programming
   - description:
     icon: microchip-ai
