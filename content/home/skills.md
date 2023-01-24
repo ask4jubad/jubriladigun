@@ -5,27 +5,6 @@ headless: true
 weight: 30
 title: Skills
 subtitle: null
-<!-- feature:
-  - description: 40%
-    icon: r-project
-    icon_pack: fab
-    name: R
-  - description: 70%
-    icon: r-project
-    icon_pack: fab
-    name: Python
-  - description: 90%
-    icon: chart-line
-    icon_pack: fas
-    name: Digital Teaching
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Content curation
-  - description: 10%
-    icon: camera-retro
-    icon_pack: fas
-    name: Content curation -->
 feature:
   - description: 
     icon: shield-check
@@ -49,3 +28,24 @@ feature:
     name: Digital Teaching   
 active: true
 ---
+<!-- feature:
+  - description: 40%
+    icon: r-project
+    icon_pack: fab
+    name: R
+  - description: 70%
+    icon: r-project
+    icon_pack: fab
+    name: Python
+  - description: 90%
+    icon: chart-line
+    icon_pack: fas
+    name: Digital Teaching
+  - description: 10%
+    icon: camera-retro
+    icon_pack: fas
+    name: Content curation
+  - description: 10%
+    icon: camera-retro
+    icon_pack: fas
+    name: Content curation -->
