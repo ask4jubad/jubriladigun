@@ -1,4 +1,3 @@
-
 ---
 abstract: Metamorphic testing has proven to be effective for test case
   generation and fault detection in many domains. It is a software testing
