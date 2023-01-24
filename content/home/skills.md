@@ -7,7 +7,7 @@ title: Skills
 subtitle: null
 feature:
   - description: 
-    icon: fa-shield-check
+    icon: shield-check
     icon_pack: fas
     name: Quality Assurance
   - description: 
@@ -15,7 +15,7 @@ feature:
     icon_pack: fas
     name: Programming
   - description:
-    icon: fa-microchip-ai
+    icon: ![fa-icon](https://fontawesome.com/icons/microchip-ai)
     icon_pack: fas
     name: Artificial Intelligence
   - description:
