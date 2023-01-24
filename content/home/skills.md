@@ -5,18 +5,47 @@ headless: true
 weight: 30
 title: Skills
 subtitle: null
-feature:
-  - description: 90%
+<!-- feature:
+  - description: 40%
     icon: r-project
     icon_pack: fab
     name: R
-  - description: 100%
+  - description: 70%
+    icon: r-project
+    icon_pack: fab
+    name: Python
+  - description: 90%
     icon: chart-line
     icon_pack: fas
-    name: Statistics
+    name: Digital Teaching
   - description: 10%
     icon: camera-retro
     icon_pack: fas
-    name: Photography
+    name: Content curation
+  - description: 10%
+    icon: camera-retro
+    icon_pack: fas
+    name: Content curation -->
+feature:
+<!--   - description: 40% -->
+-   icon: shield-check
+    icon_pack: fas
+    name: Quality Assurance
+<!--   - description: 70% -->
+    icon: binary-circle-check
+    icon_pack: fas
+    name: Programming
+<!--   - description: 90% -->
+ -   icon: microchip-ai
+    icon_pack: fas
+    name: Artificial Intelligence
+<!--   - description: 10% -->
+    icon: uncharted
+    icon_pack: fas
+    name: Design Thinking
+<!--   - description: 10% -->
+    icon: chalkboard-user
+    icon_pack: fas
+    name: Digital Teaching   
 active: true
 ---
