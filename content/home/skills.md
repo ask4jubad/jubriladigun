@@ -7,7 +7,7 @@ title: Skills
 subtitle: null
 feature:
   - description: 
-    icon: shield-check
+    icon: fa-shield-check
     icon_pack: fas
     name: Quality Assurance
   - description: 
