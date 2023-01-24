@@ -8,12 +8,13 @@ subtitle: null
 active: true
 content:
   autolink: true
-  form:
+  form: ""
+<!--   form:
     provider: netlify
     formspree:
       ? id
     netlify:
-      captcha: false
+      captcha: false -->
 design:
   columns: "2"
 ---
