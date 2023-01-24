@@ -8,15 +8,15 @@ subtitle: null
 feature:
   - description: 
     icon: bug
-    icon_pack: fab
+    icon_pack: fas
     name: Quality Assurance
   - description: 
     icon: code
-    icon_pack: fab
+    icon_pack: fas
     name: Programming
   - description:
     icon: microchip-ai
-    icon_pack: fa-solid
+    icon_pack: far
     name: Artificial Intelligence
   - description:
     icon: uncharted
