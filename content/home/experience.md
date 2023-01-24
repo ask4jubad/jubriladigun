@@ -17,7 +17,7 @@ experience:
   - title: Cofounder and COO/CTO
     company: Ainnov8 Technologies
     company_url: ""
-    company_logo: org-uibk
+    company_logo: org-ui
     location: Lagos
     date_start: 2021-07-01
     date_end: ""
@@ -43,5 +43,5 @@ weight: 40
 title: Selected Experiences
 subtitle: null
 design:
-  columns: "2"
+columns: "2"
 ---
