@@ -27,6 +27,7 @@ feature:
     icon_pack: fas
     name: Digital Teaching   
 active: true
+{{<icon name="shield-check" pack="fas">}}
 ---
 
-{{<icon name="shield-check" pack="fas">}}
+
