@@ -7,7 +7,8 @@ title: Skills
 subtitle: null
 feature:
   - description: 
-    icon: shield-check
+<!--     icon: shield-check -->
+{{<icon name="shield-check" pack="fas">}}
     icon_pack: fas
     name: Quality Assurance
   - description: 
