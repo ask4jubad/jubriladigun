@@ -1,68 +1,56 @@
 ---
-abstract: Metamorphic testing has proven to be effective for test case
-  generation and fault detection in many domains. It is a software testing
-  strategy that uses certain relations between input-output pairs of a program,
-  referred to as metamorphic relations. This approach is relevant in the
-  autonomous systems domain since it helps in cases where the outcome of a given
-  test input may be difficult to determine. In this paper therefore, we provide
-  an overview of metamorphic testing as well as an implementation in the
-  autonomous systems domain. We implement an obstacle detection and avoidance
-  task in  autonomous drones utilising the GNC API alongside a simulation in
-  Gazebo. Particularly, we describe properties and best practices that are
-  crucial for the development of effective metamorphic relations. We also
-  demonstrate two metamorphic relations for metamorphic testing of single and
-  more than one drones, respectively. Our relations reveal several properties
-  and some weak spots of both the implementation and the avoidance algorithm in
-  the light of metamorphic testing. The results indicate that metamorphic
-  testing has great potential in the autonomous systems domain and should be
-  considered for quality assurance in this field.
+abstract: Collaborative artificial intelligence systems (CAISs) aim to work with
+  humans in a shared space to achieve a common goal, but this can pose hazards
+  that could harm human beings. We identify emerging problems in this context
+  and report our vision of and progress toward a risk-driven assurance process
+  for CAISs.
 slides: ""
 url_pdf: ""
 publication_types:
-  - "1"
+  - "2"
+active: false
+title: Collaborative Artificial Intelligence Needs Stronger Assurances Driven by Risks
 authors:
   - admin
-  - Linus Eisele
+  - Matteo Camilli
   - Michael Felderer
-author_notes:
-  - Equal contribution
-  - Equal contribution
-  - Review and Editing
-publication: In *48th Euromicro Conference on Software Engineering and Advanced
-  Applications*
+  - Andrea Giusti
+  - Dominik T. Matt
+  - Anna Perini
+  - Barbara Russo
+  - Angelo Susi
+author_notes: []
+doi: 10.1109/MC.2021.3131990
+publication: In *IEEE Computer*
+tags:
+  - Collaboration
+  - Hazards
+  - Artificial intelligence
+  - Intelligent systems
+  - Risk management
+categories:
+  - artificial intelligence
+  - human computer interaction
+  - risk management
+image:
+  caption: "Image credit: ML-equipped CAIS demo running at the ARENA lab.,
+    Fraunhofer Italia"
+  focal_point: ""
+  preview_only: false
+  filename: cais_example.png
 summary: ""
 url_dataset: ""
 url_project: ""
-publication_short: In *SEAA 2022*
+publication_short: In *Computer*
 url_source: ""
 url_video: ""
-title: Metamorphic Testing in Autonomous System Simulations
-doi: ""
 featured: false
-tags:
-  - metamorphic testing
-  - simulation
-  - cyber-physical system
-  - test case generation
-  - autonomous system
-categories:
-  - metamorphic testing
-  - simulation
-  - cyber-physical system
-  - test case generation
-  - autonomous system
 projects: []
-image:
-  caption: "Image credit: [**Original**]"
-  focal_point: ""
-  preview_only: false
-  filename: featured.jpg
-date: 2022-09-02T13:19:19.714Z
+date: 2022-03-14T23:01:00.000Z
 url_slides: ""
 publishDate: 2023-01-16T00:00:00.000Z
 url_poster: ""
 url_code: ""
-active: false
 ---
 
 <!-- [{{% callout note %}} Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software. {{% /callout %}}]: <>
