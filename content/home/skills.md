@@ -27,23 +27,23 @@ subtitle: null
     icon_pack: fas
     name: Content curation -->
 feature:
-<!--   - description: 40% -->
--   icon: shield-check
+  - description: 
+    icon: shield-check
     icon_pack: fas
     name: Quality Assurance
-<!--   - description: 70% -->
+  - description: 
     icon: binary-circle-check
     icon_pack: fas
     name: Programming
-<!--   - description: 90% -->
- -   icon: microchip-ai
+  - description:
+    icon: microchip-ai
     icon_pack: fas
     name: Artificial Intelligence
-<!--   - description: 10% -->
+  - description:
     icon: uncharted
     icon_pack: fas
     name: Design Thinking
-<!--   - description: 10% -->
+  - description: 10%
     icon: chalkboard-user
     icon_pack: fas
     name: Digital Teaching   
