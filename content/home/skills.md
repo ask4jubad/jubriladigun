@@ -32,8 +32,8 @@ feature:
     icon_pack: fas
     name: Quality Assurance
   - description: 
-    icon: python
-    icon_pack: fab
+    icon: binary-circle-check
+    icon_pack: fas
     name: Programming
   - description:
     icon: microchip-ai
