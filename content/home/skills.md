@@ -11,7 +11,7 @@ feature:
     icon_pack: fas
     name: Quality Assurance
   - description: 
-    icon: binary-circle-check
+    icon: binary
     icon_pack: fas
     name: Programming
   - description:
