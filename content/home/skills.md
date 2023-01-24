@@ -23,7 +23,7 @@ feature:
     icon_pack: fas
     name: Design Thinking
   - description:
-    icon: screencast
+    icon: screen-users
     icon_pack: fas
     name: Digital Teaching   
 active: true
