@@ -15,8 +15,8 @@ feature:
     icon_pack: fas
     name: Programming
   - description:
-    icon: ![fa-icon](https://fontawesome.com/icons/microchip-ai)
-    icon_pack: fas
+    icon: microchip-ai
+    icon_pack: fa-solid
     name: Artificial Intelligence
   - description:
     icon: uncharted
