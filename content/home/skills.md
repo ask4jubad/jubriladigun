@@ -32,7 +32,7 @@ feature:
     icon_pack: fas
     name: Quality Assurance
   - description: 
-    icon: binary-circle-check
+    icon: python
     icon_pack: fas
     name: Programming
   - description:
@@ -43,7 +43,7 @@ feature:
     icon: uncharted
     icon_pack: fas
     name: Design Thinking
-  - description: 10%
+  - description:
     icon: chalkboard-user
     icon_pack: fas
     name: Digital Teaching   
