@@ -16,7 +16,7 @@ feature:
     name: Programming
   - description:
     icon: microchip-ai
-    icon_pack: fa-solid
+    icon_pack: fas
     name: Artificial Intelligence
   - description:
     icon: uncharted
