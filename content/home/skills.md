@@ -28,3 +28,5 @@ feature:
     name: Digital Teaching   
 active: true
 ---
+
+{{<icon name="shield-check" pack="fas">}}
