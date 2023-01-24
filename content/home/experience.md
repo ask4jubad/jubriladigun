@@ -11,7 +11,6 @@ experience:
     date_end: ""
     description: |-2
         My research focuses on:
-        
         * assurance of self adaptive software-intensive systems
         * runtime testing of cyberphysical systems
         * joint exploration of safety and security of self-adaptive systems
