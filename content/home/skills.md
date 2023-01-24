@@ -8,7 +8,7 @@ subtitle: null
 feature:
   - description: 
 <!--     icon: shield-check -->
-    icon: {{<icon name="shield-check" pack="fas">}}
+    icon: shield
     icon_pack: fas
     name: Quality Assurance
   - description: 
