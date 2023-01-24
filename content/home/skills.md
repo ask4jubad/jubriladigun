@@ -16,7 +16,7 @@ feature:
     name: Programming
   - description:
     icon: microchip
-    icon_pack: fas
+    icon_pack: fa-solid
     name: Artificial Intelligence
   - description:
     icon: uncharted
@@ -27,7 +27,6 @@ feature:
     icon_pack: fas
     name: Digital Teaching   
 active: true
-{{<icon name="shield-check" pack="fas">}}
 ---
 
 
