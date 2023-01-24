@@ -41,7 +41,7 @@ experience:
 widget_id: changes
 headless: true
 weight: 40
-title: Experiences
+title: Selected Experiences
 subtitle: null
 design:
   columns: "2"
