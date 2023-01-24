@@ -16,7 +16,7 @@ feature:
     name: Programming
   - description:
     icon: microchip
-    icon_pack: fas
+    icon_pack: far
     name: Artificial Intelligence
   - description:
     icon: clipboard
