@@ -17,7 +17,7 @@ abstract: Metamorphic testing has proven to be effective for test case
   testing has great potential in the autonomous systems domain and should be
   considered for quality assurance in this field.
 slides: ""
-url_pdf: MTASS.pdf
+url_pdf: ""
 publication_types:
   - "1"
 authors:
