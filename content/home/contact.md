@@ -9,3 +9,12 @@ active: true
 design:
   columns: "2"
 ---
+
+<!-- content:
+  autolink: true
+  form: ""
+    provider: netlify
+    formspree: ""
+      ? id
+    netlify: 
+      captcha: false -->
