@@ -9,12 +9,6 @@ active: true
 content:
   autolink: true
   form: ""
-<!---   form:
-    provider: netlify
-    formspree:
-      ? id
-    netlify:
-      captcha: false --->
 design:
   columns: "2"
 ---
