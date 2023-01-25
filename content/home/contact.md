@@ -9,11 +9,11 @@ active: true
 content:
   autolink: true
   form:
-    provider: "" [netlify]#
+    provider: ""
     formspree: ""
       ? id
     netlify:
-      captcha: "" [false]#
+      captcha: ""
 design:
   columns: "2"
 ---
