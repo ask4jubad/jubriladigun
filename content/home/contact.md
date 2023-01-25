@@ -7,13 +7,13 @@ title: Contact
 subtitle: null
 active: true
 content:
-  autolink: false
+  autolink: true
   form:
-    provider: netlify
-    formspree:
+    provider: "" [netlify]#
+    formspree: ""
       ? id
     netlify:
-      captcha: false
+      captcha: "" [false]#
 design:
   columns: "2"
 ---
