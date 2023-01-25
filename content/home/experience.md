@@ -5,7 +5,7 @@ experience:
   - title: Researcher
     company: University of Innsbruck
     company_url: ""
-    company_logo: org-gc
+    company_logo: ""
     location: Innsbruck
     date_start: 2021-02-01
     date_end: ""
@@ -17,7 +17,7 @@ experience:
   - title: Cofounder and COO/CTO
     company: Ainnov8 Technologies
     company_url: ""
-    company_logo: org-ui
+    company_logo: ""
     location: Lagos
     date_start: 2021-07-01
     date_end: ""
@@ -29,7 +29,7 @@ experience:
   - title: Test Engineer
     company: Ericsson Eesti AS
     company_url: ""
-    company_logo: org-ee
+    company_logo: ""
     location: Tallinn
     date_start: 2019-03-11
     date_end: 2021-01-14
