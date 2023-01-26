@@ -2,7 +2,7 @@
 title: Jubril Gbolahan Adigun
 role: PhD Candidate in Computer Science
 avatar_filename: avatar.png
-bio: IT Generalist and Quality Engineering Researcher
+bio: Software and Systems Quality & Entrepreneur
 interests:
   - Artificial Intelligence
   - Simulations
