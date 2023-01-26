@@ -10,7 +10,7 @@ abstract: The hard drive is one of the important components of a computing syste
   knowledge graph-based hard drive failure prediction. The experimental results demonstrate that our proposed method achieves higher accuracy in comparison
   to the current state of the art.
 slides: ""
-url_pdf: ""
+url_pdf: "sensors-22-00985.pdf"
 publication_types:
   - "2"
 active: false
