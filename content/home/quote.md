@@ -1,6 +1,6 @@
 ---
 # Quote section
-widget: skill
+widget: featurette
 headless: true
 weight: 30
 title: Favorite Quote
