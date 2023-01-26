@@ -11,7 +11,5 @@ sections:
     content:
       title: Section 1
       subtitle: A subtitle
-      text: {{< spoiler text="Click to view my favorite quote spoiler" >}}
-            `The good life is one inspired by love and guided by knowledge!`
-            {{< /spoiler >}}
+      text: {{<spoiler text="Click to view my favorite quote spoiler">}}{{<i>}}The good life is one inspired by love and guided by knowledge!{{<i/>}}{{< /spoiler >}}
 ---
