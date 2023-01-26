@@ -1,6 +1,6 @@
 ---
 # Page title
-title: quote
+widget: quote
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
