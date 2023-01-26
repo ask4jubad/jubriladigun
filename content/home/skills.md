@@ -15,7 +15,7 @@ feature:
     icon_pack: fas
     name: Programming
   - description:
-    icon: "microchip-ai"
+    icon: microchip
     icon_pack: fas
     name: Artificial Intelligence
   - description:
