@@ -1,15 +1,10 @@
 ---
 # Page title
 widget: quote
-# Page type - we want a landing page (such as a homepage)
-type: landing
-
-# Your landing page sections - add as many different content blocks as you like
-sections:
-  - block: markdown
-    id: quote
-    content:
-      title: Favorite Quote
-      subtitle: ""
-      text: {{< spoiler text='Click to view my favorite quote' >}} The good life is one inspired by love and guided by knowledge! {{< /spoiler >}}
+headless: true
+weight: 30
+title: Favorite Quote
+subtitle: Enjoy
+active: true
 ---
+{{< spoiler text='Click to view my favorite quote' >}} The good life is one inspired by love and guided by knowledge! {{< /spoiler >}}
