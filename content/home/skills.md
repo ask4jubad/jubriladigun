@@ -16,14 +16,14 @@ feature:
     name: Programming
   - description:
     icon: microchip
-    icon_pack: far
+    icon_pack: fas
     name: Artificial Intelligence
   - description:
     icon: clipboard
     icon_pack: fas
     name: Design Thinking
   - description:
-    icon: screen-users
+    icon: screen
     icon_pack: fas
     name: Digital Teaching   
 active: true
