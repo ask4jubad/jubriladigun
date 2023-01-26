@@ -1,6 +1,6 @@
 ---
-# Page title
-widget: quote
+# Quote section
+widget: skill
 headless: true
 weight: 30
 title: Favorite Quote
