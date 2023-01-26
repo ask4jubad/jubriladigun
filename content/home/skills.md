@@ -15,7 +15,7 @@ feature:
     icon_pack: fas
     name: Programming
   - description:
-    icon: microchip
+    icon: "microchip-ai"
     icon_pack: fas
     name: Artificial Intelligence
   - description:
@@ -23,7 +23,7 @@ feature:
     icon_pack: fas
     name: Design Thinking
   - description:
-    icon: screen
+    icon: laptop
     icon_pack: fas
     name: Digital Teaching   
 active: true
