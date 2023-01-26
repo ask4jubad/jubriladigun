@@ -1,14 +1,14 @@
 ---
 abstract: The hard drive is one of the important components of a computing system, and its failure can lead to both system failure and data loss.
-Therefore, the reliability of a hard drive is very important. Realising this importance, a number of studies have been conducted and many are still 
-ongoing to improve hard drive failure prediction. Most of those studies rely solely on machine learning, and a few others on semantic technology. 
-The studies based on machine learning, despite promising results, lack context-awareness such as how failures are related or what other factors, 
-such as humidity, influence the failure of hard drives. Semantic technology, on the other hand, by means of ontologies and knowledge graphs (KGs), 
-is able to provide the context-awareness that machine learning-based studies lack. However, the studies based on semantic technology lack the advantages
-of machine learning, such as the ability to learn a pattern and make predictions based on learned patterns. 
-Therefore, in this paper, leveraging the benefits of both machine learning (ML) and semantic technology, we present our study, 
-knowledge graph-based hard drive failure prediction. The experimental results demonstrate that our proposed method achieves higher accuracy in comparison
-to the current state of the art.
+  Therefore, the reliability of a hard drive is very important. Realising this importance, a number of studies have been conducted and many are still 
+  ongoing to improve hard drive failure prediction. Most of those studies rely solely on machine learning, and a few others on semantic technology. 
+  The studies based on machine learning, despite promising results, lack context-awareness such as how failures are related or what other factors, 
+  such as humidity, influence the failure of hard drives. Semantic technology, on the other hand, by means of ontologies and knowledge graphs (KGs), 
+  is able to provide the context-awareness that machine learning-based studies lack. However, the studies based on semantic technology lack the advantages
+  of machine learning, such as the ability to learn a pattern and make predictions based on learned patterns. 
+  Therefore, in this paper, leveraging the benefits of both machine learning (ML) and semantic technology, we present our study, 
+  knowledge graph-based hard drive failure prediction. The experimental results demonstrate that our proposed method achieves higher accuracy in comparison
+  to the current state of the art.
 slides: ""
 url_pdf: ""
 publication_types:
