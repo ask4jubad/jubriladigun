@@ -39,7 +39,7 @@ image:
   caption: "Stacked Ensemble"
   focal_point: ""
   preview_only: false
-  filename: kg-example.png
+  filename: kgexample.png
 summary: ""
 url_dataset: ""
 url_project: ""
