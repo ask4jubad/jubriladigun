@@ -10,6 +10,6 @@ sections:
     id: quote
     content:
       title: Favorite Quote
-      subtitle: []
+      subtitle: ""
       text: {{< spoiler text='Click to view my favorite quote' >}} The good life is one inspired by love and guided by knowledge! {{< /spoiler >}}
 ---
