@@ -21,7 +21,7 @@ authors:
   - admin
   - Anna Fensel
 author_notes: []
-doi: 10.3390/s22030985
+doi: "10.3390/s22030985"
 publication: In *Sensors*
 tags:
   - hard drive
