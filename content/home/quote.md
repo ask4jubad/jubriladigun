@@ -1,15 +1,15 @@
 ---
 # Page title
-title: My page
+title: quote
 # Page type - we want a landing page (such as a homepage)
 type: landing
 
 # Your landing page sections - add as many different content blocks as you like
 sections:
   - block: markdown
-    id: section-1
+    id: quote
     content:
-      title: Section 1
-      subtitle: A subtitle
+      title: Favorite Quote
+      subtitle: ""
       text: {{<spoiler text="Click to view my favorite quote spoiler">}}{{<i>}}The good life is one inspired by love and guided by knowledge!{{<i/>}}{{< /spoiler >}}
 ---
