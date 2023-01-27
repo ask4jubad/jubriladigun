@@ -13,7 +13,7 @@ slides: ""
 url_pdf: "sensors-22-00985.pdf"
 publication_types:
   - "2"
-active: false
+active: true
 authors:
   - Tek Raj Chhetri
   - Anelia Kurteva
