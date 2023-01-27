@@ -14,15 +14,22 @@ url_pdf: "sensors-22-00985.pdf"
 publication_types:
   - "2"
 active: false
-title: Knowledge Graph Based Hard Drive Failure Prediction
 authors:
   - Tek Raj Chhetri
   - Anelia Kurteva
   - admin
   - Anna Fensel
 author_notes: []
-doi: "10.3390/s22030985"
 publication: In *Sensors*
+summary: ""
+url_dataset: ""
+url_project: ""
+publication_short: In *Sensors*
+url_source: ""
+url_video: ""
+title: Knowledge Graph Based Hard Drive Failure Prediction
+doi: "10.3390/s22030985"
+featured: false
 tags:
   - hard drive
   - failure prediction
@@ -36,17 +43,10 @@ categories:
   - systems
   - risk management
 image:
-  caption: "Stacked Ensemble"
+  caption: "Image credit: [**Original** Stacked Ensemble]"
   focal_point: ""
   preview_only: false
   filename: kgexample.png
-summary: ""
-url_dataset: ""
-url_project: ""
-publication_short: In *Sensors*
-url_source: ""
-url_video: ""
-featured: false
 projects: []
 date: 2022-01-20T23:01:00.000Z
 url_slides: ""
