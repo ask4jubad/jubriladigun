@@ -37,7 +37,7 @@ image:
     Fraunhofer Italia"
   focal_point: ""
   preview_only: false
-  filename: cais_example.jpg
+  filename: featured.jpg
 summary: ""
 url_dataset: ""
 url_project: ""
