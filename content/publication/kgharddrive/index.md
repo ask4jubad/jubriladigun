@@ -46,7 +46,7 @@ image:
   caption: "Image credit: [**Original** Stacked Ensemble]"
   focal_point: ""
   preview_only: false
-  filename: kgexample.png
+  filename: featured.jpg
 date: 2022-01-20T23:01:00.000Z
 url_slides: ""
 publishDate: 2022-01-27T00:00:00.000Z
