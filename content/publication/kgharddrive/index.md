@@ -13,7 +13,6 @@ slides: ""
 url_pdf: "sensors-22-00985.pdf"
 publication_types:
   - "2"
-active: true
 authors:
   - Tek Raj Chhetri
   - Anelia Kurteva
@@ -42,12 +41,12 @@ categories:
   - semantic technology
   - systems
   - risk management
+projects: []
 image:
   caption: "Image credit: [**Original** Stacked Ensemble]"
   focal_point: ""
   preview_only: false
   filename: kgexample.png
-projects: []
 date: 2022-01-20T23:01:00.000Z
 url_slides: ""
 publishDate: 2022-01-27T00:00:00.000Z
