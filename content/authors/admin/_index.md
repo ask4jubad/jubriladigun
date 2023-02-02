@@ -58,7 +58,7 @@ highlight_name: true
 ---
 <!--StartFragment-->
 
-I am a Software and Systems Engineer, a researcher at the Quality Engineering Lab, and a Ph.D. candidate Department of Computer Science, University of Innsbruck (UIBK). I hold a bachelor's degree in Electrical and Electronics Engineering from the prestigious University of Ilorin, Ilorin, Nigeria and a joint master of science in engineering degree in Software Engineering from University of Tartu and Tallinn University of Technology, Estonia with a specialization in Embedded and Real-time Engineering under a full tuition-waiver scholarship.
+I am a **Software and Systems Engineer**, a **researcher** at the Quality Engineering Lab, a **Ph.D. candidate** Department of Computer Science, University of Innsbruck (UIBK) and a **budding serial startup entreprenuer**. I hold a bachelor's degree in Electrical and Electronics Engineering from the prestigious University of Ilorin, Ilorin, Nigeria and a joint master of science in engineering degree in Software Engineering from University of Tartu and Tallinn University of Technology, Estonia with a specialization in Embedded and Real-time Engineering under a full tuition-waiver scholarship.
 
 My PhD bothers on run-time behaviors of software-intensive systems (a cool way of saying physical systems that are software driven) in a bid to proffer risk assurance and testing solutions in dynamic and uncertain circumstances and environments. These systems include but not limited to cyber-physical systems (CPS), self-adaptive systems, collaborative artificial intelligence systems (CAIS) and autonomous systems. I also supervise bachelors and masters students' seminars and theses. In the future, I will be involved in teaching and will be sure to let you know.
 
