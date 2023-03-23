@@ -24,9 +24,10 @@ main:
     url: './courses/'
     parent: teaching
     weight: 30
-  - name: supervision
-    parent: teaching
+  - name: Supervision
+    identifier: supervision
     url: './supervision/'
+    parent: teaching
     weight: 31
 #   - name: Research Projects
 #     PageRef: research/official-projects/_index.md
