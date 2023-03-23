@@ -2,7 +2,7 @@
 title: 🧑‍🏫 Teaching  
 
 view: 2
-toc: false 
+toc: true 
 header:
   caption: ""
   image: ""
