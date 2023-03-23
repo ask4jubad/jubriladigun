@@ -22,14 +22,15 @@ main:
     weight: 40
   - name: Courses
     identifier: courses
-    url: './teaching/courses/'
-    PageRef: ./courses/
+    url: './courses/'
+    PageRef: teaching/courses/index.md
     parent: teaching
     weight: 30
   - name: Supervision
     identifier: supervision
     url: './supervision/'
     parent: teaching
+    PageRef:  PageRef: teaching/supervision/index.md
     weight: 31
   - name: Publications
     url: '#publications'
