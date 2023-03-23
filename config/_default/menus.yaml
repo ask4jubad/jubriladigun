@@ -17,12 +17,13 @@ main:
 #     url: '#talks'
 #     weight: 40
   - name: Teaching
-    identifier: teaching 
+    identifier: teaching
+    url: './teaching/'
     weight: 40
   - name: Courses
     identifier: courses
-    url: './courses/'
-    PageRef: teaching/courses/index.md
+    url: './teaching/courses/'
+    PageRef: ./courses/
     parent: teaching
     weight: 30
   - name: Supervision
@@ -30,8 +31,6 @@ main:
     url: './supervision/'
     parent: teaching
     weight: 31
-#   - name: Research Projects
-#     PageRef: research/official-projects/_index.md
   - name: Publications
     url: '#publications'
     weight: 50
