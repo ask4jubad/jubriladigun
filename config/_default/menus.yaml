@@ -28,8 +28,8 @@ main:
     parent: teaching
     url: './supervision/'
     weight: 31
-  - name: Research Projects
-    PageRef: research/official-projects/_index.md
+#   - name: Research Projects
+#     PageRef: research/official-projects/_index.md
   - name: Publications
     url: '#publications'
     weight: 50
