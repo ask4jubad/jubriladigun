@@ -23,6 +23,6 @@ systems and simulations.
 - **Type**: Thesis 
 - **Status**: Completed since 05.11.2021
 - **Student**: [Linus Eisele](https://www.researchgate.net/profile/Linus-Eisele-2)
-- view: 4 
+view: 4 
 
 
