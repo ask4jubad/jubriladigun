@@ -12,6 +12,7 @@ weight: 40
   
 </div>
 <br>
+
 [Computer Network and Internet Technology | Bachelor](./rnit)
 
 **Overview:** This course consists of two parts, lecture and practical, also called Proseminar (PS). The PS aims to deepen the theoretical understanding and involves exercises and simple programming exercises. The course is offered during the winter semester and is worth 3 ECTS.
