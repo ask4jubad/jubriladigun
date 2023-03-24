@@ -2,7 +2,7 @@
 widget: about
 widget_id: changes
 headless: true
-weight: 10
+weight: 100
 title: Profile
 active: true
 author: admin
@@ -11,5 +11,6 @@ design:
     image: ""
     gradient_start: ""
     gradient_end: ""
-    text_color_light: true
+    text_color_light: false
+    image_darken: ""
 ---
