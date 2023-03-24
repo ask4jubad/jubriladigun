@@ -6,6 +6,7 @@ toc: true
 header:
   caption: ""
   image: ""
-  - name: rtod
-    PageRef: ./rtod/index.md
 ---
+
+- name: rtod
+  PageRef: ./rtod/index.md
