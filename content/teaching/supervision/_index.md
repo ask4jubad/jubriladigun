@@ -1,7 +1,7 @@
 ---
 title: 👁️ Supervision  
 
-view: 2
+view: 3
 toc: true 
 header:
   caption: ""
