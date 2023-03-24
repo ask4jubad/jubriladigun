@@ -4,16 +4,16 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Appearance
-appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: minimal
-  font_size: M
+# appearance:
+#   theme_day: minimal
+#   theme_night: minimal
+#   font: minimal
+#   font_size: M
 
-# theme: minimal
-# day_night: true
-# font: minimal
-# font_size: M
+theme: cyberpunk
+day_night: true
+font: ''
+font_size: M
 
 # SEO
 
