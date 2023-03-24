@@ -2,7 +2,7 @@
 widget: about
 widget_id: changes
 headless: true
-weight: 100
+weight: 10
 title: Profile
 active: true
 author: admin
