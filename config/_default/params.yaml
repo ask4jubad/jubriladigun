@@ -10,7 +10,7 @@
 #   font: minimal
 #   font_size: M
 
-theme: Mr Robot
+theme: mrrobot
 day_night: true
 font: ''
 font_size: M
