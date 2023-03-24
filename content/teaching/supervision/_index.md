@@ -7,6 +7,3 @@ header:
   caption: ""
   image: ""
 ---
-
-- name: rtod
-  PageRef: ./rtod/index.md
