@@ -14,7 +14,7 @@ design:
   background:
     gradient_start: DarkGreen
     gradient_end: ForestGreen
-    text_color_light: true
+    text_color_light: false
   spacing:
     padding:
       - 20px
