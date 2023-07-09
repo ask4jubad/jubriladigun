@@ -11,6 +11,6 @@ design:
     image: ""
     gradient_start: ""
     gradient_end: ""
-    text_color_light: false
+    text_color_light: true
     image_darken: ""
 ---
