@@ -2,15 +2,15 @@
 widget: experience
 date_format: Jan 2006
 experience:
-  - title: Researcher
+  - title: Scientific Staff/Researcher
     company: University of Innsbruck
     company_url: ""
     company_logo: ""
     location: Innsbruck
     date_start: 2021-02-01
-    date_end: ""
+    date_end: 2024-09-30
     description: |-2
-        My research focuses on:
+        My research focused on:
         * assurance of self adaptive software-intensive systems
         * runtime testing of cyberphysical systems
         * joint exploration of safety and security of self-adaptive systems
