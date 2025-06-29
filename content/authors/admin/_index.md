@@ -45,13 +45,13 @@ education:
   courses:
     - course: PhD in Computer Science
       institution: University of Innsbruck
-      year: 2024
+      year: 2025
     - course: MSE in Software Engineering
       institution: University of Tartu and Tallinn University of Technology
       year: 2020
     - course: BEng in Electrical and Electronics Engineering
       institution: University of Ilorin
-      year: 2014
+      year: 2015
 email: ""
 superuser: true
 highlight_name: true
